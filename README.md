@@ -20,24 +20,26 @@
 ---
 
 Organizations build internal applications such as dashboards, database GUIs, admin panels, approval apps, customer support dashboards, and more to help their teams perform day-to-day operations. Appsmith is an open-source tool that enables the rapid development of these internal apps. Read more on our [website](https://www.appsmith.com?utm_source=github&utm_medium=organic&utm_campaign=readme).
-  
-[![Appsmith in 100 secs](/static/images/appsmith-in-100-seconds.png)](https://www.youtube.com/watch?v=NnaJdA1A11s?v=Dxe_NzdGzL4&utm_source=github&utm_medium=organic&utm_campaign=readme/?target=_blank)  
+
+[![Appsmith in 100 secs](/static/images/appsmith-in-100-seconds.png)](https://www.youtube.com/watch?v=NnaJdA1A11s?v=Dxe_NzdGzL4&utm_source=github&utm_medium=organic&utm_campaign=readme/?target=_blank)
 
 
 ## Installation
 There are two ways to start using Appsmith:
 
 - Signup on [Appsmith Cloud](https://app.appsmith.com/?utm_source=github&utm_medium=organic&utm_campaign=readme).
-- Install Appsmith on your machine. See the installation guides below. 
+- Install Appsmith on your machine. See the installation guides below.
 
-| Installation Methods                                                                                                            | Documentation                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.appsmith.com/getting-started/setup/installation-guides/docker?utm_source=github&utm_medium=organic&utm_campaign=readme)                  | [Docker](https://docs.appsmith.com/getting-started/setup/installation-guides/docker?utm_source=github&utm_medium=organic&utm_campaign=readme) (*Recommended*)       |
-| [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://docs.appsmith.com/getting-started/setup/installation-guides/kubernetes?utm_source=github&utm_medium=organic&utm_campaign=readme)        | [Kubernetes](https://docs.appsmith.com/getting-started/setup/installation-guides/kubernetes?utm_source=github&utm_medium=organic&utm_campaign=readme) |
-| [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://docs.appsmith.com/getting-started/setup/installation-guides/aws-ami?utm_source=github&utm_medium=organic&utm_campaign=readme)                      | [AWS AMI](https://docs.appsmith.com/getting-started/setup/installation-guides/aws-ami?utm_source=github&utm_medium=organic&utm_campaign=readme)           |
+| Installation Methods                                                                                                                                                                                                                                                | Documentation                                                                                                                                             |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.appsmith.com/getting-started/setup/installation-guides/docker?utm_source=github&utm_medium=organic&utm_campaign=readme)                 | [Docker](https://docs.appsmith.com/getting-started/setup/installation-guides/docker?utm_source=github&utm_medium=organic&utm_campaign=readme) (*Recommended*) |
+| [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://docs.appsmith.com/getting-started/setup/installation-guides/kubernetes?utm_source=github&utm_medium=organic&utm_campaign=readme) | [Kubernetes](https://docs.appsmith.com/getting-started/setup/installation-guides/kubernetes?utm_source=github&utm_medium=organic&utm_campaign=readme)     |
+| [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://docs.appsmith.com/getting-started/setup/installation-guides/aws-ami?utm_source=github&utm_medium=organic&utm_campaign=readme)                  | [AWS AMI](https://docs.appsmith.com/getting-started/setup/installation-guides/aws-ami?utm_source=github&utm_medium=organic&utm_campaign=readme)           |
+| [![ALiBaba](https://service-info-public.oss-cn-hangzhou.aliyuncs.com/computenest-en.svg)](https://computenest.console.aliyun.com/user/cn-hangzhou/serviceInstanceCreate?ServiceName=Appsmith%E7%A4%BE%E5%8C%BA%E7%89%88)              | [AliBaba](https://computenest.console.aliyun.com/service/detail/cn-hangzhou/service-2179d5a134074d2cbf0b/1?type=user&isRecommend=true)           |
 
 
-For other deployment options, see the [Installation Guides](https://docs.appsmith.com/getting-started/setup/installation-guides?utm_source=github&utm_medium=organic&utm_campaign=readme) documentation.  
+
+For other deployment options, see the [Installation Guides](https://docs.appsmith.com/getting-started/setup/installation-guides?utm_source=github&utm_medium=organic&utm_campaign=readme) documentation.
 
 ## Development
 To build and run Appsmith in your local dev environment, see [Setup for local development](https://github.com/appsmithorg/appsmith/blob/master/contributions/CodeContributionsGuidelines.md#-setup-for-local-development).
@@ -53,7 +55,7 @@ To build and run Appsmith in your local dev environment, see [Setup for local de
 - [Community Portal](https://community.appsmith.com/?utm_source=github&utm_medium=organic&utm_campaign=readme)
 - [support@appsmith.com](mailto:support@appsmith.com)
 
-                                                                                                                
+
 ## Contributing
 We ❤️ our contributors. We're committed to fostering an open, welcoming, and safe environment in the community.
 
